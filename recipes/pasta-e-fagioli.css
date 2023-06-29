@@ -18,16 +18,12 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.ingredients ul {
-    text-align: left;
-    display: inline-block;
-}
-
 .steps {
     background-color: rgb(23, 228, 60);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
+.ingredients ul,
 .steps ol {
     text-align: left;
     display: inline-block;

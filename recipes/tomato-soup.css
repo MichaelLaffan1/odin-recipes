@@ -18,16 +18,12 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.ingredients ul {
-    text-align: left;
-    display: inline-block;
-}
-
 .steps {
     background-color: rgb(33, 237, 234);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.ingredients ul,
 .steps ol {
     text-align: left;
     display: inline-block;
