@@ -5,11 +5,19 @@ body {
 .container {
     background-color: orange;
     text-align: center;
+    width: 900px;
+    margin: auto;
+    border: 15px red solid;
 }
 
 .recipes {
-    text-align: left;
+    text-align: center;
     display: inline-block;
+    background-color: aqua;
+    width: 175px;
+    padding: 16px;
+    border: 4px brown solid;
+    margin-bottom: 40px;
 }
 
 .container h1 {
@@ -18,12 +26,20 @@ body {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
+#title{
+    background-color: blue;
+    padding: 2px;
+    margin: 100px;
+    border: 10px purple solid;
+    margin-top: 3px;
+}
+
 #tomato {
     color: red;
 }
 
 #corned-beef-roast {
-    color: aquamarine;
+    color: blueviolet;
 }
 
 #pasta-e-fagioli {
